@@ -5,4 +5,4 @@
 
 | Integrantes | Rol | Perfil Github |
 | ------------- | ------------- |------------- |
-| si | no talvez |
+| si | no | talvez |
