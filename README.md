@@ -2,3 +2,5 @@
 ### Contenido 1
 # Repositorio_FUNBIO2
 ### Contenido 3
+| Integrantes | Rol | Perfil Github |
+| ----------- | - | - - |
